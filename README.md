@@ -1,5 +1,5 @@
 # pytorch-AlphaPose 변경 사항
-
+2019.08.21 수정
 - SPPE/src/models/layers/SE_module.py 파일의 코드 변경
   - 기존 코드로 ONNX 변환은 가능하지만, TensorRT에서 불러오지 못하는 문제 
 - SPPE/src/main_fast_inference.py 파일의 코드 변경
